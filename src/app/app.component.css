@@ -1,0 +1,11 @@
+.follower {
+    background-color: green;
+}
+
+.non-follower {
+    background-color: red;
+}
+
+.bot {
+    background-color: yellow;
+}
